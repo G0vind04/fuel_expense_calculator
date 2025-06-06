@@ -1,0 +1,10 @@
+{
+  "name": "fuel-calculator-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Fuel Calculator",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "dev": "echo 'Dev server not needed'"
+  }
+}
